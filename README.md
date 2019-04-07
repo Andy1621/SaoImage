@@ -28,12 +28,12 @@ python35 app.py
 
 1. Choose your content image and style image.
 
-   ![](.\static\pic\1.jpg)
+   ![](./static/pic/1.jpg)
 
 2. Input a train time, make sure that it should not be too lagre, or it will take a long time.
 
-![](.\static\pic\2.jpg)
+   ![](./static/pic/2.jpg)
 
 3. Wait for your result.
 
-   ![](.\static\pic\3.jpg)
+   ![](./static/pic/3.jpg)
