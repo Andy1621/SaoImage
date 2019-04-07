@@ -1,0 +1,8 @@
+.my-img {
+  width: 600px;
+  height: 400px;
+  border: solid 1px #ccc;
+  background-origin: content-box;
+  background-position: 50% 50%;
+  background-size: contain;
+}
